@@ -1,0 +1,22 @@
+[
+  {
+    "question": "4-4=0",
+    "goodAns": "True",
+    "badAns": "False"
+  },
+  {
+    "question": "5+5=10?",
+    "goodAns": "True",
+    "badAns": "False"
+  },
+  {
+    "question": "4+4=8?",
+    "goodAns": "True",
+    "badAns": "False"
+  },
+  {
+    "question": "2+2*2=6",
+    "goodAns": "True",
+    "badAns": "False"
+  }
+]
